@@ -1,0 +1,19 @@
+# evo-catalogue-schemas release-plane channel pointer — dev
+#
+# This file names the current schema-set version tracked by the `dev`
+# channel. Promotion is a pointer edit: bump `schema_set_version` to
+# point at a bundle already present under `bundles/`. Bytes never
+# change on promotion.
+#
+# Sign this file with the evo project release key. Consumers refuse
+# to apply an unsigned or invalidly-signed pointer.
+
+schema_version = 0
+publisher = "org.evoframework"
+channel = "dev"
+updated_at = "2026-07-10T00:00:00Z"
+
+# Placeholder until the first schema-set bundle is published under
+# `bundles/`. Track 4G promote will land the first release bundle for
+# v0.1.13.
+schema_set_version = ""
