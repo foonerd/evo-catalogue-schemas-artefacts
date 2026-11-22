@@ -11,7 +11,7 @@
 schema_version = 0
 publisher = "org.evoframework"
 channel = "dev"
-updated_at = "2026-11-22T11:53:57Z"
+updated_at = "2026-11-22T12:18:30Z"
 
 # Placeholder until the first schema-set bundle is published under
 # `bundles/`. Track 4G promote will land the first release bundle for
